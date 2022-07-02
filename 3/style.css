@@ -1,0 +1,133 @@
+.main-wrapper{
+    background: #FFFFFF;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    padding: 10px;
+}
+
+.header{
+    display: flex;
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-title{
+    font-family: Roboto Mono;
+    font-weight: 500;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.logo{
+    width: 30px;
+    margin-right: 10px;
+}
+
+.consult-block{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.content-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 18px;
+    color: #222222;
+    margin-bottom: 20px;
+}
+
+.line{
+    height: 2px;
+    background: #EECB87;
+    margin-bottom: 10px;
+}
+
+.img1{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.consult-subtitle{
+    font-family: Roboto Mono;
+    font-size: 14px;
+    color: #222222;
+    max-width: 250px;
+    margin-bottom: 10px;
+}
+
+.button{
+    background: #0085FF;
+    border-radius: 50px;
+    padding: 8px;
+    color: white;
+}
+
+.after-consult{
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column 
+    
+}
+
+.after-subtitle{
+    font-family: Roboto Mono;
+    font-size: 14px;
+    color: #222222;
+    margin-bottom: 5px;
+}
+
+.main-content-wrapper{
+    display: flex;
+}
+
+.text-wrapper{
+    display: flex;
+    flex-direction: column;
+    max-width: 260px;
+    margin-right: 20px;
+}
+
+.text{
+    font-family: Roboto Mono;   
+    font-size: 14px;
+    color: #222222;
+    margin-bottom: 8px;
+}
+
+.main-content-wrapper2{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-wrapper2{
+    font-family: Roboto Mono;   
+    font-size: 14px;
+    color: #222222;
+    margin-bottom: 8px;
+    margin-left: 20px;
+}
+
+.margin{
+    margin-bottom: 10px;
+}
+
+.button0{
+    background: #0085FF;
+    border-radius: 5px;
+    max-width: 600px;
+    width: 100%;
+    color: #FFFFFF;
+    padding: 10px;
+}

@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.wrapper2 {
+    display: grid;
+    grid-template-columns: repeat(5, 400px);
+    padding-left:300px;
+}
+
+.wrapper3 {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+}
+
+
+.images {
+    height: 200px;
+    width: 300x;
+    margin-bottom: 50px;
+}
+
+.asd {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}

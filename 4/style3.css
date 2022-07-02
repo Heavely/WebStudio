@@ -1,0 +1,78 @@
+body{
+    max-width: 1920px;
+    padding: 25px 350px;
+}
+
+.navbar{
+    margin-bottom: 100px;
+}
+
+.wrapper{
+    margin-bottom: 25px;
+    max-width: 600px;
+    background: #F0F4FF;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.button{
+    max-width: 240px;
+    background: #0066FF;
+    border-radius: 6px;
+    padding: 15px 60px;
+    color: #FFFFFF;
+}
+
+.title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 24px;
+    color: #262558;
+    margin-bottom: 20px;
+}
+
+.form-control{
+    border: 1px solid #CBD5F0;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+
+
+.footer{
+    background-color: #0066FF;
+    display: flex;
+    padding: 35px 50px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+.Info{
+    margin-right: 130px;
+}
+
+.footer-title{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-subtitle{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    color: #89B8FF;
+}
+.Contacts{
+    max-width: 310px;
+    margin-left: 90px;
+}
+
+.contacts-title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+}

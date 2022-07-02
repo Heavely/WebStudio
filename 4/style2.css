@@ -1,0 +1,142 @@
+body{
+    max-width: 1920px;
+    padding: 25px 350px;
+}
+
+.main-content{
+    display: flex;
+    margin-top: 50px;
+}
+
+.title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    color: #262558;
+}
+
+.text-content{
+    margin-top: 80px;
+    margin-left: -140px;
+    max-width: 1200px
+}
+
+.img-block{
+    position: absolute;
+    background: #D8E3FF;
+    border-radius: 20px;
+    padding: 25px 22px;
+}
+
+.subtitle{
+    margin-left: 100px;
+    max-width: 180px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 24px;
+    color: #262558;
+}
+
+.text-block{
+    position: absolute;
+    max-width: 1220px;
+    background: #F0F4FF;
+    border-radius: 14px;
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+
+.text-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    font-family: ABeeZee;
+    font-size: 16px;
+    color: #262558;
+}
+
+.text-content2{
+    margin-top: 380px;
+    margin-left: -280px;
+}
+
+.text-about-block{
+    display: flex;
+    margin-top: 30px;
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title2{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 18px;
+    color: #262558;
+    margin-left: 50px;
+    margin-top: -30px;
+    margin-right: 50px;
+}
+
+.text2{
+    font-family: ABeeZee;
+    font-size: 16px;
+    color: #8799CA;
+    max-width: 300px;
+    margin-left: 50px
+}
+
+.text-content3{
+    margin-top: 800px;
+    margin-left: -280px;
+}
+
+
+.text-block2{
+    position: absolute;
+    max-width: 1220px;
+    background: #F0F4FF;
+    border-radius: 14px;
+    margin-top: 60px;
+    padding: 20px 30px;
+}
+
+.footer{
+    background-color: #0066FF;
+    display: flex;
+    padding: 35px 50px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+.Info{
+    margin-right: 130px;
+}
+
+.footer-title{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-subtitle{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    color: #89B8FF;
+}
+.Contacts{
+    max-width: 310px;
+    margin-left: 90px;
+}
+
+.contacts-title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+}

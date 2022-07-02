@@ -1,0 +1,180 @@
+body{
+    max-width: 1920px;
+    padding: 25px 350px;
+}
+
+.main-title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    color: #262558;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.wrapper{
+    background: #F0F4FF;
+    border-radius: 14px;
+    padding: 35px;
+
+}
+
+.text{
+    font-family: ABeeZee;
+    font-size: 16px;
+    color: #262558;
+}
+
+.cards-wrapper{
+    display: flex;
+    margin-top: 25px;
+}
+
+.card-wrapper{
+    display: flex;
+    margin-right: 80px;
+}
+
+.title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 18px;
+    color: #262558;
+}
+
+.subtile{
+    font-family: ABeeZee;
+    font-size: 16px;
+    color: #8799CA;
+    max-width: 260px;
+}
+
+.img{
+    max-width: 52px;
+    height: 52px;
+    margin-right: 20px;
+}
+
+.title-wrapper{
+    align-items: center;
+    justify-content: center;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+}
+
+.key-ad{
+     display: flex;
+     margin-top: 40px;
+     margin-bottom: 50px;
+}
+
+.img-block{
+    background: #D8E3FF;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.main-subtitle{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 24px;
+    color: #262558;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.last-wrapper{
+    display: flex;
+    background: #0066FF;
+    border-radius: 12px;
+    max-width: 1220px;
+    margin-top: 50px;
+    padding: 70px 65px;
+}
+
+.last-text{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    color: #FFFFFF;
+    max-width: 410px;
+}
+
+.button{
+    background: #FFFFFF;
+    border-radius: 6px;
+    color: #0066FF;
+    padding: 20px 90px;
+    max-height: 70px;
+    margin-left: 450px;
+    margin-top: 20px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: #0066FF;
+    display: flex;
+    padding: 35px 50px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+.Info{
+    margin-right: 130px;
+}
+
+.footer-title{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-subtitle{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    color: #89B8FF;
+}
+.Contacts{
+    max-width: 310px;
+    margin-left: 90px;
+}
+
+.contacts-title{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+}
