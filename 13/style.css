@@ -1,19 +1,28 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background: rgb(202, 202, 202);
-  max-width: 1600px;
-  width: 100%;
-  padding: 0px 480px;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
 }
 
 .href {
   text-decoration: none;
 }
 
-header {
-  padding: 25px 222px;
+.nav {
   display: flex;
   align-items: center;
   background: #fff;
+  justify-content: space-between;
+  padding: 25px 0px;
 }
 
 .Logo {
@@ -66,12 +75,15 @@ span {
 }
 
 .menu {
+  background: #2f303a;
+  padding: 200px 0px;
+}
+
+.menu-wrapper {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #2f303a;
-  padding: 200px 452px;
 }
 
 .menu-title {
@@ -84,6 +96,7 @@ span {
   text-transform: uppercase;
   color: #ffffff;
   margin-bottom: 30px;
+  width: 700px;
 }
 
 .menu-button {
@@ -209,7 +222,7 @@ span {
 }
 
 .footer {
-  padding: 60px 0px 60px 215px;
+  padding: 60px 0px;
   background: #2f303a;
 }
 
